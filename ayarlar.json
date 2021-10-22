@@ -1,0 +1,12 @@
+{
+    "bot": {
+        "token": "token rol id",
+        "BotOwner": ["owner rol id"]
+    },
+
+    "roles": {
+        "CekilisKatılımcı": "çekilis rol id", 
+        "EtkinlikKatılımcı": "etkinlik rol id"
+       
+    }
+}
